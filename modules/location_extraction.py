@@ -10,7 +10,7 @@ class LocationExtraction(Module):
 
     @override
     def main(self) -> ModuleResult:
-        location = "Rosstal"
+        location = "Erlangen"
 
         dir_path = os.path.realpath("./module_communication/")
 
